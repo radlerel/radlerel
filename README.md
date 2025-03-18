@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">>~< My poor stack</h3>
+<h3 align="center">My poor stack</h3>
 
 ###
 
