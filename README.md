@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/radlerel/count.svg?"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkweTY1cHFydHJ6b3I1ZWk2OG5jOTV1ZHBuc2V4eXFiMWNueDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwgQ8Wjs1sUB4k/giphy.gif"  />
 </div>
 
 ###
