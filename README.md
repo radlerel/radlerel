@@ -52,4 +52,4 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY2bnkydGg5dWJmZ2huYTB2c3NhM2c5MzFqODkwcXpqZmJxaTFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnem6IjGugmuM5q/giphy.gif" />
 </div>
 
-<h3 align="center">If you want to contact me, I have a Session : ()
+<h3 align="center">Contact me in Session </h3>
