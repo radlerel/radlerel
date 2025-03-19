@@ -45,4 +45,5 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF0MzRlYjV1enhnNWw1MjJ5d3Y1dmdnZGF4a2Foc3B0ODhzbjZkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq7W7t6cswaY80w/giphy.gif" />
 </div>
-###
+
+<h3 align="center">I love coding and reading technical literature, that's ALL I can do at this stage of my life!</h3>
