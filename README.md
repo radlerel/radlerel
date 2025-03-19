@@ -47,3 +47,9 @@
 </div>
 
 <h3 align="center">I love coding and reading technical literature, that's ALL I can do at this stage of my life!</h3>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY2bnkydGg5dWJmZ2huYTB2c3NhM2c5MzFqODkwcXpqZmJxaTFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnem6IjGugmuM5q/giphy.gif" />
+</div>
+
+<h3 align="center">If you want to contact me, write to me on Session : ()</h3>
