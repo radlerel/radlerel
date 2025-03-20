@@ -40,7 +40,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkweTY1cHFydHJ6b3I1ZWk2OG5jOTV1ZHBuc2V4eXFiMWNueDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnwgQ8Wjs1sUB4k/giphy.gif"  />
 </div>
 
-<h3 align="center">I hate stupid questions, to get the right answer you need a correctly formulated question.</h3>
+<h3 align="center">I hate stupid questions.</h3>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF0MzRlYjV1enhnNWw1MjJ5d3Y1dmdnZGF4a2Foc3B0ODhzbjZkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq7W7t6cswaY80w/giphy.gif" />
