@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYyNW5sc2d3bDUyYXpkOWFqMW1wejd5ZXN2cDRpeWptNXFzZGluayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqvvZoo3vGBOAfe/giphy.gif" width="300">
+</div>
+
 # 💫 About Me :
 I'm 16 y.o student. Currently living in Spain. 
 Have some experience and skills at the cybersecurity. 
